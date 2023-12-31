@@ -9,9 +9,9 @@
     font-family: 'Poppins', sans-serif;
 }
 
-html,body{
+/* html,body{
     height: 100%;
-}
+} */
 body{
     display: grid;
     place-items: center;
@@ -111,3 +111,5 @@ body{
 .close-btn:hover{
     background: #ffc766;
 }
+
+
